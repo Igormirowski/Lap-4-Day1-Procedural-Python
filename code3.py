@@ -13,9 +13,9 @@ for elt in fridge:
 initials = map(first_letter, fridge)
 print(initials)
 
-for elt in initials:
-    print(elt)
+# for elt in initials:
+#     print(elt)
 
-# return in a list 
+# return in a list  LIST COMPREHENTION
 initials3 = [item[0] for item in fridge]
 print("initials3", initials3)
