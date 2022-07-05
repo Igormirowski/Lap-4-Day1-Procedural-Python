@@ -24,7 +24,7 @@ while i < 3:
     print(f"Hello has been printed {i + 1} times")
     i += 1
 
-# With input ity always be a string (pyth2 it would be integer)
+# With input its always be a string (pyth2 it would be integer)
 name = input("what's your name please?")
 print(name)
 
