@@ -7,3 +7,6 @@
 - file `code4.py` Filter Print all starting with C/ Dictionary to list keys and values/ DICTIONARY COMPREHENSION Multiply value by 2 
 
 
+# Interaction with modules
+- file `part2.py` Importing modules
+- file `part3.py` Importing modules to part2.py
