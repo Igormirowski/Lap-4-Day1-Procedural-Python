@@ -19,3 +19,12 @@ print(initials)
 # return in a list  LIST COMPREHENTION
 initials3 = [item[0] for item in fridge]
 print("initials3", initials3)
+
+# lambda 
+initials4 = [lambda item:item[0], fridge]
+print("4", initials4)
+
+# map with lambda
+initials5 = map(lambda item:item[0], fridge)
+
+print(initials5)
